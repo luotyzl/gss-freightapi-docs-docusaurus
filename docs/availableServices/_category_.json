@@ -1,0 +1,8 @@
+{
+  "label": "Available Services",
+  "position": 200,
+  "link": {
+    "type": "generated-index",
+    "description": "Query for all available carriers and services for this account."
+  }
+}
